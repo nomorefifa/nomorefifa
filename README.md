@@ -1,21 +1,4 @@
-<div align="center">
 
-```
-██████╗ ███████╗██╗     ██╗ █████╗ ██████╗ ██╗██╗     ██╗████████╗██╗   ██╗
-██╔══██╗██╔════╝██║     ██║██╔══██╗██╔══██╗██║██║     ██║╚══██╔══╝╚██╗ ██╔╝
-██████╔╝█████╗  ██║     ██║███████║██████╔╝██║██║     ██║   ██║    ╚████╔╝ 
-██╔══██╗██╔══╝  ██║     ██║██╔══██║██╔══██╗██║██║     ██║   ██║     ╚██╔╝  
-██║  ██║███████╗███████╗██║██║  ██║██████╔╝██║███████╗██║   ██║      ██║   
-╚═╝  ╚═╝╚══════╝╚══════╝╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝╚══════╝╚═╝   ╚═╝      ╚═╝  
-```
-
-### 🛠️ Site Reliability Engineer
-
-*"Infrastructure as Code, Stability as Culture"*
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nomorefifa)](https://solved.ac/nomorefifa)
-&nbsp;
-![Visitor Count](https://komarev.com/ghpvc/?username=nomorefifa&color=0d1117&style=flat-square&label=VISITORS)
 
 </div>
 
@@ -27,7 +10,7 @@
 name        : 정준영 (JunYoung Jung)
 university  : 한국항공대학교 소프트웨어학과 (졸업예정 2027.02)
 role        : Site Reliability Engineer
-focus       : Cloud Infrastructure · DevOps · AI Platform
+focus       : LLM · Cloud Infrastructure · DevOps
 contact     : junyoungjung3172@gmail.com
 ```
 
@@ -49,11 +32,9 @@ contact     : junyoungjung3172@gmail.com
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 
-### 🔄 CI/CD & Monitoring
+### 🔄 CI/CD
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F5A623?style=flat-square&logo=grafana&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 
 ### 🤖 AI / LLM
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -65,16 +46,3 @@ contact     : junyoungjung3172@gmail.com
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
----
-
-## 📫 Contact
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/junyoungjung3172@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junyoungjung3172@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/@nomorefifa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nomorefifa)
-&nbsp;
-[![Solved.ac](https://img.shields.io/badge/BOJ_Gold3-FFA116?style=for-the-badge&logo=acmicpc&logoColor=white)](https://solved.ac/profile/nomorefifa)
-
-</div>
