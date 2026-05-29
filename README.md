@@ -15,11 +15,10 @@ contact     : junyoungjung3172@gmail.com
 ```
 
 > 실습과 경험 기반으로 빠르게 배우고, 부족한 부분을 개선으로 연결하는 개발자입니다.  
-> 단일 EC2에서 **EKS 기반 멀티스케일 아키텍처**까지, 직접 부딪히며 인프라를 설계해왔습니다.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### ☁️ Cloud & Infra
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
