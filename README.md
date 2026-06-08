@@ -14,7 +14,9 @@ focus       : LLM · Cloud Infrastructure · DevOps
 contact     : junyoungjung3172@gmail.com
 ```
 
-> 실습과 경험 기반으로 빠르게 배우고, 부족한 부분을 개선으로 연결하는 개발자입니다.  
+> 실습과 경험 기반으로 빠르게 배우고, 부족한 부분을 개선으로 연결하는 개발자입니다.
+
+[![Notion Portfolio](https://img.shields.io/badge/📋_Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://app.notion.com/p/Site-Reliability-Engineer-2eea4d57554d81d38987cb995eb64e48?source=copy_link)
 
 ---
 
