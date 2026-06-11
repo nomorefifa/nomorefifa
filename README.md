@@ -14,6 +14,7 @@ name        : 정준영 (JunYoung Jung)
 university  : 한국항공대학교 소프트웨어학과 (졸업예정 2027.02)
 role        : Site Reliability Engineer
 focus       : LLM · Cloud Infrastructure · DevOps
+certs       : AWS SAA · SQLD · ADsP
 contact     : junyoungjung3172@gmail.com
 ```
 
