@@ -5,9 +5,7 @@
 ---
 
 ## 👤 About Me
-<a href="https://app.notion.com/p/Site-Reliability-Engineer-2eea4d57554d81d38987cb995eb64e48?source=copy_link">
-  <img src="https://img.shields.io/badge/%20포트폴리오%20바로가기-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-</a>
+
 
 ```yaml
 name        : 정준영 (JunYoung Jung)
